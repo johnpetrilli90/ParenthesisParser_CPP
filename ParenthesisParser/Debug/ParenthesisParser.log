@@ -1,0 +1,3 @@
+﻿  ParenthesisParser.cpp
+c:\users\john.petrilli\source\repos\parenthesisparser\parenthesisparser\parenthesisparser.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  ParenthesisParser.vcxproj -> C:\Users\john.petrilli\source\repos\ParenthesisParser\Debug\ParenthesisParser.exe
