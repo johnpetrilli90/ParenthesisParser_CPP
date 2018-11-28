@@ -1,5 +1,5 @@
-﻿// ParenthesisParser.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// ParenthesisParser.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Author: John Petrilli
 
 #include "pch.h"
 #include <iostream>
